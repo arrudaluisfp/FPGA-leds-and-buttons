@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Nov 14 16:11:33 2020
+# Process ID: 10552
+# Current directory: C:/Users/arrud/Documents/UPF/10_Semestre/Micro_II/ArtyA7/trab_1/trab_1.runs/impl_1
+# Command line: vivado.exe -log trab_1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source trab_1.tcl -notrace
+# Log file: C:/Users/arrud/Documents/UPF/10_Semestre/Micro_II/ArtyA7/trab_1/trab_1.runs/impl_1/trab_1.vdi
+# Journal file: C:/Users/arrud/Documents/UPF/10_Semestre/Micro_II/ArtyA7/trab_1/trab_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source trab_1.tcl -notrace
